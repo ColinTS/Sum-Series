@@ -1,0 +1,24 @@
+{
+  "name": "Sum-Series",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --watch tests/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ColinTS/Sum-Series.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ColinTS/Sum-Series/issues"
+  },
+  "homepage": "https://github.com/ColinTS/Sum-Series#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.2.0"
+  }
+}
